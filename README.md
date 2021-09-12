@@ -1,6 +1,6 @@
 # 앗차피디아 (왓챠피디아 클론코딩)
 https://www.youtube.com/watch?v=CBenPZkhncU&ab_channel=%EA%B9%80%EC%98%81%ED%98%B8
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=CBenPZkhncU&ab_channel=%EA%B9%80%EC%98%81%ED%98%B8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 앗차피디아 팀원
 
