@@ -36,9 +36,9 @@
 ### 적용 기술
 
 
-> -Front-End : javascript, React.js framwork, styled-components<br>
-> -Back-End : Python, Django web framework, MySQL, Bcrypt, pyjwt, AWS, S3<br>
-> -Common : POSTMAN, RESTful API
+> -Front-End : javascript, React.js, Scss<br>
+> -Back-End : Python, Django, MySQL<br>
+> -Common : POSTMAN, Slack, Trello, AWS
 
 <br>
 
