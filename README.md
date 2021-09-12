@@ -36,9 +36,9 @@
 ### 적용 기술
 
 
-> -Front-End : javascript, React.js, Scss<br>
+> -Front-End : JSX, React, Scss<br>
 > -Back-End : Python, Django, MySQL<br>
-> -Common : POSTMAN, Slack, Trello, AWS
+> -Common : Postman, Slack, Trello, AWS
 
 <br>
 
