@@ -1,5 +1,6 @@
 # 앗차피디아 (왓챠피디아 클론코딩)
 <a href="https://www.youtube.com/watch?v=CBenPZkhncU&ab_channel=%EA%B9%80%EC%98%81%ED%98%B8">![AtchaPedia_Logo_Big](https://user-images.githubusercontent.com/79790476/132983431-8c559de4-d409-4d06-8eac-232b40f763a8.png)</a>
+
 로고를 누르시면 데모 영상으로 이동합니다.
 
 ## 앗차피디아 팀원
